@@ -8,10 +8,9 @@ Clone this repo and then in command line type:
 
 --
 
-## List of Gulp tasks
+## Explore Unity O
 
-To run separate task type in command line `gulp [task_name]`.
-Almost all tasks also have watch mode - `gulp [task_name]:watch`, but you don't need to use it directly.
+https://unityo.web.app
 
 ### Main tasks
 Task name          | Description

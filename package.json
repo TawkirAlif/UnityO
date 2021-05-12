@@ -62,6 +62,6 @@
     "gulp-pug": "^4.0.1",
     "gulp-babel": "^6.1.2",
     "require-yaml": "^0.0.1",
-    "lodash": "^4.3.0"
+    "lodash": "^4.17.21"
   }
 }
